@@ -1,0 +1,57 @@
+Попробовать пропарсить - https://www.vesselfinder.com/ru/vessels/details/9506344
+
+Это скормить ИИ, чтобы понимат откуда тянуть данные.
+<div class="s0">
+          <h2 class="bar2" id="lim">Данные о рейсе</h2>
+          <div class="flx vcenter">
+            <div class="flag-icon _jFl fiflfix" title="Russia" style="background-image: url(https://static.vesselfinder.net/images/flags/4x3/ru.svg);"></div>
+            <div class="vi__r1 vi__sbt">
+              <div class="vilabel">Порт назначения</div>
+                            <a class="_npNa" href="/ru/ports/RUNJK001">Nakhodka Anch., Russia</a>
+                            <div class="_value">
+                <span class="_mcol12">ATA: Mar 19, 16:21 UTC</span>
+                                <span class="_arrLb">ПРИБЫЛ</span>
+                              </div>
+            </div>
+          </div>
+          <div class="flx">
+            <div class="arrOu" id="ddar">
+              <div class="arrIn">
+                <div class="arrDo"></div>
+                <div class="arrSo" style="height:240px"></div>
+                <div class="arrCi" style=""></div>
+              </div>
+            </div>
+            <table class="aparams"><tbody>
+                        <tr><td class="n3">Расчетное ETA</td><td class="v3" id="peta">-</td></tr>
+                                    <tr><td class="n3">Расстояние/Время</td><td class="v3" id="pdist">-</td></tr>
+                        <tr><td class="n3">Курс / Скорость</td><td class="v3" id="spv0">214.4° / 0.0 kn</td></tr>
+            <tr><td class="n3">Осадка</td><td class="v3">6.3 m</td></tr>
+            <tr><td class="n3">Статус навигации</td>
+              <td class="v3">
+                                <span class="ttt0" data-title="Moored">Moored</span>
+                              </td>
+            </tr>
+            <tr><td class="n3">Позиция получена</td>
+              <td class="v3" id="lastrep"><div class="flx vcenter">
+                <span class="">3 min ago </span>
+                <svg class="ttt1 info" data-title="Mar 28, 2025 06:08 UTC" width="16" height="16" viewBox="0 0 16 16" aria-hidden="true" role="img" xmlns="http://www.w3.org/2000/svg"><path d="M8,0c-4.42,0 -8,3.58 -8,8c0,4.42 3.58,8 8,8c4.42,0 8,-3.58 8,-8c0,-4.42 -3.58,-8 -8,-8Zm1,12l-2,0l0,-5l2,0l0,5Zm0,-6.4l-2,0l0,-1.6l2,0l0,1.6Z" fill="#8a8a8a"></path></svg>
+              </div>
+              </td>
+            </tr>
+            <tr><td class="n3">IMO / MMSI</td><td class="v3 v3np">9506344 / 477979900</td></tr>
+            <tr><td class="n3">Позывной</td><td class="v3">VRWF7</td></tr>
+            <tr><td class="n3">Флаг</td><td class="v3">Hong Kong</td></tr>
+            <tr><td class="n3">Длина / Ширина</td><td class="v3">180 / 29 m</td></tr>
+            </tbody></table>
+          </div>
+                    <div class="flx vcenter _rLk01">
+            <div class="flag-icon _jFl fiflfix" title="China" style="background-image: url(https://static.vesselfinder.net/images/flags/4x3/cn.svg);"></div>
+            <div class="vi__r1 vi__stp">
+              <div class="vilabel">Последний порт</div>
+                            <a class="_npNa" href="/ru/ports/CNLSN001">Lanshan, China</a>
+                            <div class="_value">ATD: Mar 15, 09:12 UTC <span class="_arrTde">(13 days ago)</span></div>
+            </div>
+          </div>
+                  </div>
+
